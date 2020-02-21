@@ -181,7 +181,53 @@ var myArray = [
         "Descripcion":"Designed and developed a tailored EDI System to automate the weighing of products at"+
         "Bafar’s processing plant. Included modules were: weight scale, production results, product"+
         "catalogs and reports"
-    }]
+    },
+    {
+        "Tipo": "Sofware Development",
+        "Nombre": "Recycle Center Weighing System",
+        "Referencia": "detail.html?id=13",
+        "Imagen":"<img src= \"images/p13.jpg\" alt=\"\" /></a>",
+        "Resumen": "Software control inventory and Buy/Sell recycle materials with data transfers to truck and floor scales",
+        "Tools":"Visual Studio 2005, C# .NET, E1310 AWT Simposer, FTP, TCPIP/sockets",
+        "Cliente": "Centro de Reciclaje de Mexicali, Mexicali",
+        "Fecha":"March, 2009",
+        "Roles":" Analyst, Weighing devices Developer, Tester and Deployment",
+        "ProjectSize": "Big, product owner, two developer, multiple devices",
+        "Descripcion":" This software was implemented on three diferents places in Mexicali. We Build a tailored system that included"+
+        " Management Information and TransactionProcessing modules.<br>"+
+        "- Custom module to calculate TAX ."+
+        "- Developed a communication interface that transferred data between the truck scales"+
+        "digital indicators and the Transaction system, data includes client, user and product"+
+        "catalogs as well as transactions."
+    },
+    {
+        "Tipo": "Sofware Development",
+        "Nombre": "Early years Weighing Systems",
+        "Referencia": "detail.html?id=14",
+        "Imagen":"<img src= \"images/p14.jpg\" alt=\"\" /></a>",
+        "Resumen": "Resume of weighing applications developed in 2007-2009",
+        "Tools":"Visual Studio 2005, E1310 AWT Simposer, FTP, TCPIP/sockets",
+        "Cliente": "Basculas Internacionales de Mexico, Empacadora Rosarito, Qualimentos, Camel Back, Black\&Decker, Plantronics, RSI",
+        "Fecha":"June 2007, February 2009",
+        "Roles":"General Manager, Analyst, Weighing devices Developer, Tester and Deployment",
+        "ProjectSize": "Medium and small",
+        "Descripcion":""
+    },
+    {
+        "Tipo": "Sofware Development",
+        "Nombre": "Early years Control and Automated Systems",
+        "Referencia": "detail.html?id=15",
+        "Imagen":"<img src= \"images/p15.jpg\" alt=\"\" /></a>",
+        "Resumen": "Resume of control, machine vision, electrical test and data monitoring applications 1998-2005",
+        "Tools":"Delphi, C++ Builder, Lview (National Instrumenst), Agilent, Matrox Imaging",
+        "Cliente": "ASTEC America, Bourns, Kyocera, Packard Hughes, ",
+        "Fecha":"June 2007, February 2009",
+        "Roles":"Analyst, Weighing devices Developer, Tester and Deployment",
+        "ProjectSize": "Small",
+        "Descripcion":""
+    }
+]
+
 
 const urlParams = new URLSearchParams(window.location.search.substring(1));
 var  idProject =  urlParams.get("id")
