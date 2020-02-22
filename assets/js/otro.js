@@ -15,8 +15,8 @@ var myArray = [
         "My job was to disassemble and analyze current executable files by using Ollydbg and add  new DB connection strings, then reassemble and deploy the modified files<br>"
     },
     {
-        "Tipo": "Sofware Upgrade",
-        "Nombre": "SATO labels on automated weighing System",
+        "Tipo": "Software Upgrade",
+        "Nombre": "SATO labels on automatic weighing System",
         "Referencia": "detail.html?id=1",
         "Imagen":"<video src=\"images/v01.mp4\" autoplay muted loop></video>",
         "Resumen": "Software upgrade on Avery Weightronix Devices",
@@ -48,7 +48,11 @@ var myArray = [
         "Tipo": "Software Development",
         "Nombre": "Control de Bombas Punta Faro",
         "Referencia": "detail.html?id=3",
-        "Imagen":"<a href = \"http://fcm.ens.uabc.mx/~bombas/\" target=\"_blank\"> <img src= \"images/p03.jpg\" alt=\"\" /></a>+",
+        "Imagen":"<div class=\"box alt\"><div class=\"row gtr-50 gtr-uniform\">"+
+        "<div class=\"col-4\"><span class=\"image fit\"><a href = \"http://fcm.ens.uabc.mx/~bombas/\" target=\"_blank\"><img src=\"images/p03.jpg\" alt=\"\" /></a></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p03_1.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p03_2.jpg\" alt=\"\" /></span></div>"+
+        "</div></div>",
         "Resumen": "Real Time Monitoring automated sea water pump station",
         "Tools": "Visual studio 2008 VB .NET, HTML, PHP, Rockwell Studio, Advanced HMI, MySQL",
         "Cliente": "UABC, Ensenada",
@@ -64,7 +68,14 @@ var myArray = [
         "Tipo": "Software Development",
         "Nombre": "RPM Navico Shopfloor Control",
         "Referencia": "detail.html?id=4",
-        "Imagen":"<img src= \"images/p04.jpg\" alt=\"\" /></a>+",
+        "Imagen":"<div class=\"box alt\"><div class=\"row gtr-50 gtr-uniform\">"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p04.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p04_1.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p04_2.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p04_3.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p04_4.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p04_5.jpg\" alt=\"\" /></span></div>"+
+        "</div></div>",
         "Resumen": "Real time Monitoring produccion process, Packing, QA, Reports",
         "Tools": "Visual studio 2012 C#,VB .NET, HTML, ASP, MySQL, SQL Server",
         "Cliente": "Navico, Ensenada",
@@ -80,7 +91,11 @@ var myArray = [
         "Tipo": "Software Development",
         "Nombre": "QDL Order Receipt",
         "Referencia": "detail.html?id=5",
-        "Imagen":"<img src= \"images/p05.jpg\" alt=\"\" /></a>+",
+        "Imagen":"<div class=\"box alt\"><div class=\"row gtr-50 gtr-uniform\">"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p05_1.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p05_2.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p05_3.jpg\" alt=\"\" /></span></div>"+
+        "</div></div>",
         "Resumen": "Software for handheld terminal MC3190, scan an store data information from orders received",
         "Tools": "Visual studio 2013,VB .NET, SQL Server CE, Windows CE, windows 6.0",
         "Cliente": "QDL, Chihuahua",
@@ -93,14 +108,19 @@ var myArray = [
         "Tipo": "Software Development",
         "Nombre": "QDL Weighing & labeling Software",
         "Referencia": "detail.html?id=6",
-        "Imagen":"<img src= \"images/p06.jpg\" alt=\"\" /></a>",
-        "Resumen": "Software for E1310 Avery Weightronix for dynamic weihging and aumatic labeling in dairy manufacturing.",
+        "Imagen":"<div class=\"box alt\"><div class=\"row gtr-50 gtr-uniform\">"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p06.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p06_1.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p06_2.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p06_3.jpg\" alt=\"\" /></span></div>"+
+        "</div></div>",
+        "Resumen": "Dynamic weighing system and labeling in dairy manufacturing.",
         "Tools": "E1310 Simposer, visual studio 20005,VB .NET, Paradox tables",
         "Cliente": "QDL, Chihuahua",
         "Fecha":"June 2013",
         "Roles":"Analyst, weighing device and desktop Developer, Tester, Deployment",
         "ProjectSize": "Small, one developer",
-        "Descripcion":""
+        "Descripcion":"Weighing Dinamyc Application for dairy industry, process work order, weight rejects and Desktop software to send/receive data from scale."
     },
     {
         "Tipo": "Software Upgrade",
@@ -113,20 +133,28 @@ var myArray = [
         "Fecha":"August 2013",
         "Roles":"Developer, Tester, Deployment",
         "ProjectSize": "Small, one developer",
-        "Descripcion":""
+        "Descripcion":"Unit validation in packing software to confirm that packed units passing from other validation process<br>"+
+        "Navico Packing communicates with:<br>"+
+        "-Content Assurance Software to verify than the unit has all the elements in the pack box<br>"+
+        "-QSOFT SPEA Software to validate Test electrical Results<br>"+
+        "-Weighing Device to validate unit weight<br>"
     },
     {
-        "Tipo": "Sofware Development",
-        "Nombre": "Bafar Integration 920i scale in Automated Weighing System",
+        "Tipo": "Software Development",
+        "Nombre": "Bafar 920i Rice Lake Integration devices",
         "Referencia": "detail.html?id=8",
-        "Imagen":"<img src= \"images/p08.jpg\" alt=\"\" /></a>",
-        "Resumen": "Programming 920i Rice Lake Weighing Device for high precision in dynamics weighing",
-        "Tools":"iRev Rice Lake (Pascal) ",
+        "Imagen":"<div class=\"box alt\"><div class=\"row gtr-50 gtr-uniform\">"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p08.jpg\" alt=\"\" /></span></div>"+
+        "</div></div>",
+        "Resumen": "Integrate new hardware in Bafar SICOBA System, TCPIP/Sockets Comunnication.",
+        "Tools":"iRev Rice Lake (Pascal), TCP/IP Sockets ",
         "Cliente": "Grupo Bafar, Chihuahua",
         "Fecha":"August, 2010",
         "Roles":"Weighing Devices Developer",
         "ProjectSize": "Medium, product owner and two developer, multiple devices",
-        "Descripcion":""
+        "Descripcion":"Programming 920i Rice Lake Weighing Device for high precision dynamic weighing<br>"+
+        "Update SICOBA communication protocol to send/receive data fron scales using TCPIP/Sockets"+
+        "Migrate code form E1310 AWT to 920i RL"
     },
     {
         "Tipo": "Software Consulting",
@@ -139,54 +167,75 @@ var myArray = [
         "Fecha":"November 2011 - January 2013",
         "Roles":"Researcher, Analyst",
         "ProjectSize": "Medium, three developer and five PHD Researchers",
-        "Descripcion":""
+        "Descripcion":"Member of R&D team in Design Center<br>"+
+        "• Research on Wi-Fi Direct Technologies applied on wireless headsets.<br>"+
+        "• Project documentation to submit government federal funds<br>"+
+        "• Implementation of a Wi-Fi headset Prototype with text to voice cloud services.<br>"
     },
     {
         "Tipo": "Software Reengineering",
         "Nombre": "Navico Packing 2.0",
         "Referencia": "detail.html?id=10",
-        "Imagen":"<img src= \"images/p10.jpg\" alt=\"\" /></a>",
+        "Imagen":"<div class=\"box alt\"><div class=\"row gtr-50 gtr-uniform\">"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p10.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p10_1.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p10_2.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p10_3.jpg\" alt=\"\" /></span></div>"+
+        "</div></div>",
         "Resumen": "Reenginering and Optimization Software for serial and print ID labels in packing proccess",
         "Tools": "Visual studio 2005,VB .NET, SQL Server",
         "Cliente": "Navico, Ensenada",
         "Fecha":"October 2010",
         "Roles":"Developer",
         "ProjectSize": "Small, one Developer",
-        "Descripcion":""
+        "Descripcion":"Navico Packing is a customer application for counting and labeling all the units that will be shipping to an other Navico logistic centers.<br"+
+        "This applicationn was developed on 2007 without code optimization. My job  consits on code optimaztion and template manager to esay integrartion of new labels formats."
     },
     {
         "Tipo": "Software Development",
         "Nombre": "XDCRS Software Serial Labels",
         "Referencia": "detail.html?id=11",
-        "Imagen":"<img src= \"images/p11.jpg\" alt=\"\" /></a>",
+        "Imagen":"<div class=\"box alt\"><div class=\"row gtr-50 gtr-uniform\">"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p11.jpg\" alt=\"\" /></span></div>"+
+        "</div></div>",
         "Resumen": "Software for serial and print ID labels for transducers",
         "Tools": "Visual studio 2005,VB .NET, SQL Server",
         "Cliente": "Navico, Ensenada",
         "Fecha":"March 2010",
         "Roles":"Developer",
         "ProjectSize": "Small, one Developer",
-        "Descripcion":""
+        "Descripcion":"The first version of this software was created on 2010 to create labels for a new tracking laber for transducers part numbers."+
+        "The product design the product has been changing over the years. New versions create serial and units on main manufacturing ERP. "
     },
     {
-        "Tipo": "Sofware Development",
+        "Tipo": "Software Development",
         "Nombre": "Bafar EDI Automated Weighing System",
         "Referencia": "detail.html?id=12",
-        "Imagen":"<img src= \"images/p12.jpg\" alt=\"\" /></a>",
+        "Imagen":"<div class=\"box alt\"><div class=\"row gtr-50 gtr-uniform\">"+
+        "<div class=\"col-4\"><span class=\"image fit\"><video src=\"images/bafar.mp4\" autoplay muted loop></video></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p12_1.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p12_3.jpg\" alt=\"\" /></span></div>"+
+        "</div></div>",
         "Resumen": "EDI System between more than 20 Avery Weightronic scales and SAP  ",
         "Tools":"Visual Studio 2005, C# .NET, Web Services, E1310 AWT Simposer, FTP, TCPIP/sockets",
         "Cliente": "Grupo Bafar, Chihuahua",
         "Fecha":"August, 2010",
         "Roles":" Analyst, Weighing devices Developer, Tester and Deployment",
         "ProjectSize": "Big, product owner, two developer, multiple devices",
-        "Descripcion":"Designed and developed a tailored EDI System to automate the weighing of products at"+
+        "Descripcion":"Designed and developed a tailored EDI System (SICOBA) to automate the weighing of products at"+
         "Bafar’s processing plant. Included modules were: weight scale, production results, product"+
         "catalogs and reports"
     },
     {
-        "Tipo": "Sofware Development",
+        "Tipo": "Software Development",
         "Nombre": "Recycle Center Weighing System",
         "Referencia": "detail.html?id=13",
-        "Imagen":"<img src= \"images/p13.jpg\" alt=\"\" /></a>",
+        "Imagen":"<div class=\"box alt\"><div class=\"row gtr-50 gtr-uniform\">"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p13.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p13_1.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p13_2.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p13_3.jpg\" alt=\"\" /></span></div>"+
+        "</div></div>",
         "Resumen": "Software control inventory and Buy/Sell recycle materials with data transfers to truck and floor scales",
         "Tools":"Visual Studio 2005, C# .NET, E1310 AWT Simposer, FTP, TCPIP/sockets",
         "Cliente": "Centro de Reciclaje de Mexicali, Mexicali",
@@ -201,30 +250,55 @@ var myArray = [
         "catalogs as well as transactions."
     },
     {
-        "Tipo": "Sofware Development",
+        "Tipo": "Software Development",
         "Nombre": "Early years Weighing Systems",
         "Referencia": "detail.html?id=14",
-        "Imagen":"<img src= \"images/p14.jpg\" alt=\"\" /></a>",
+        "Imagen":"<div class=\"box alt\"><div class=\"row gtr-50 gtr-uniform\">"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/peso/01.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/peso/02.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/peso/03.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/peso/04.jpg\" alt=\"\" /></span></div>"+
+        "</div></div>",
         "Resumen": "Resume of weighing applications developed in 2007-2009",
         "Tools":"Visual Studio 2005, E1310 AWT Simposer, FTP, TCPIP/sockets",
         "Cliente": "Basculas Internacionales de Mexico, Empacadora Rosarito, Qualimentos, Camel Back, Black\&Decker, Plantronics, RSI",
-        "Fecha":"June 2007, February 2009",
+        "Fecha":"June 2007 - February 2009",
         "Roles":"General Manager, Analyst, Weighing devices Developer, Tester and Deployment",
         "ProjectSize": "Medium and small",
-        "Descripcion":""
+        "Descripcion":"In 2005, I was invited to join like General Manager to a local Company specialized in supplying world class scale equipment and services to the Mexican market."
+        +" In addition to managing staff, also has  the responsabilitie to know and explode the capabilities in the custom program devices."
+        +" We offer multiple aplications with small databases to control products, process and user for Checkweighin, Labeling, Truck Scales, counting"
+        +" automated weighing"
     },
     {
-        "Tipo": "Sofware Development",
+        "Tipo": "Software Development",
         "Nombre": "Early years Control and Automated Systems",
         "Referencia": "detail.html?id=15",
-        "Imagen":"<img src= \"images/p15.jpg\" alt=\"\" /></a>",
+        "Imagen":"<div class=\"box alt\"><div class=\"row gtr-50 gtr-uniform\">"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/auto/image004.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/auto/image006.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/auto/image008.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/auto/image010.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/auto/image012.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/auto/image014.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/auto/image016.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/auto/image020.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/auto/image022.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/auto/image024.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/auto/image026.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/auto/image028.jpg\" alt=\"\" /></span></div>"+
+        "</div></div>",
         "Resumen": "Resume of control, machine vision, electrical test and data monitoring applications 1998-2005",
         "Tools":"Delphi, C++ Builder, Lview (National Instrumenst), Agilent, Matrox Imaging",
-        "Cliente": "ASTEC America, Bourns, Kyocera, Packard Hughes, ",
+        "Cliente": "ASTEC America, Bourns, Saft, Kyocera, Packard Hughes. Tijuana B.C.",
         "Fecha":"June 2007, February 2009",
         "Roles":"Analyst, Weighing devices Developer, Tester and Deployment",
         "ProjectSize": "Small",
-        "Descripcion":""
+        "Descripcion":"When I finish my academic preparation in 1998, i join to my first small company in Tijuana,"
+        +"who offers control and automation services to manufacturing Industry. This was an exciting experience and a big oportunity "
+        +" to develop skill on customer relations and programming data acquisition, image adquisition and control devices."
+        +" In 2000, I join to Astec America like Electrical Test Engineerig and I continued to develop industrial software solutions."
+        
     }
 ]
 

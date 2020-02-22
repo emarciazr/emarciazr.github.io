@@ -1,38 +1,38 @@
 var myArray = [
     {
-        "Tipo": "Consulting Service",
-        "Nombre": "Software Reverse Engineering",
+        "Tipo": "Software Upgrade",
+        "Nombre": "BCS and PCBA Software Reverse Engineering",
         "Referencia": "detail.html?id=0",
         "Imagen":"images/p00.jpg",
-        "Resumen": "Analysis with OllyDbg to a customer developed aplicattion with source code missing."   
+        "Resumen": "Analysis with OllyDbg to a customer developed application with source code missing."   
     },
     {
-        "Tipo": "Sofware Upgrade",
-        "Nombre": "SATO labels on automated weighing system",
+        "Tipo": "Software Upgrade",
+        "Nombre": "SATO labels on automatic weighing system",
         "Referencia": "detail.html?id=1",
         "Imagen":"images/p01.jpg",
-        "Resumen": "Software upgrade on Avery Weightronix Devices.",
+        "Resumen": "Upgrade on Bafar AWT Weighing Software to print labels on SATO Printer.",
     },
     {
         "Tipo": "Software Development",
         "Nombre": "QRCode Device ID Label Printing",
         "Referencia": "detail.html?id=2",
         "Imagen":"images/p02.jpg",
-        "Resumen": "Device ID Generator and QRCode Label printing.",
+        "Resumen": "Device ID Generator and QRCode Label printing fro lowcost devices.",
     },
     {
         "Tipo": "Software Development",
         "Nombre": "Control de Bombas Punta Faro",
         "Referencia": "detail.html?id=3",
         "Imagen":"images/p03.jpg",
-        "Resumen": "Real Time Monitoring automated sea water pump station.",
+        "Resumen": "Real Time Monitoring on automatic sea water pump station.",
     },
     {
         "Tipo": "Software Development",
         "Nombre": "RPM Navico Shopfloor Control",
         "Referencia": "detail.html?id=4",
         "Imagen":"images/p04.jpg",
-        "Resumen": "Real time Monitoring produccion process, Packing, QA, Reports."
+        "Resumen": "Real time Monitoring production process, Packing, QA, FishMarket, Test Results , Reports."
     },
     {
         "Tipo": "Software Development",
@@ -46,21 +46,21 @@ var myArray = [
         "Nombre": "QDL Weighing & labeling Software",
         "Referencia": "detail.html?id=6",
         "Imagen":"images/p06.jpg" ,
-        "Resumen": "Software for E1310 Avery Weightronix for dynamic weihging and aumatic labeling in dairy manufacturing."
+        "Resumen": "Software for E1310 Avery Weightronix for dynamic weihging and automatic labeling in dairy manufacturing."
     },
     {
-            "Tipo": "Software Upgrade",
-            "Nombre": "Navico Process Integration",
-            "Referencia": "detail.html?id=7",
-            "Imagen":"images/p07.jpg" ,
-            "Resumen": "Quality proccess validation connecting Packing, Content Assurance and Electical Test software."
+        "Tipo": "Software Upgrade",
+        "Nombre": "Navico Process Validation Integration",
+        "Referencia": "detail.html?id=7",
+        "Imagen":"images/pic02.jpg" ,
+        "Resumen": "Unit validation on Packing process to look PASS results on Content Assurance SW, weight and Electical Test Stations."
     },
     {
-        "Tipo": "Sofware Development",
-        "Nombre": "Bafar Integration 920i scale in Automated Weighing System.",
+        "Tipo": "Software Development",
+        "Nombre": "Bafar 920i Rice Lake Integration device",
         "Referencia": "detail.html?id=8",
         "Imagen":"images/p08.jpg" ,
-        "Resumen": "Programming 920i Rice Lake Weighing Device for high precision in dynamics weighing."
+        "Resumen": "Integrate new hardware in Bafar SICOBA System, TCPIP/Sockets Comunnication."
     },
     {
         "Tipo": "Software Consulting",
@@ -81,34 +81,34 @@ var myArray = [
         "Nombre": "XDCRS Software Serial Labels",
         "Referencia": "detail.html?id=11",
         "Imagen":"images/p11.jpg" ,
-        "Resumen": "Software for serial and print ID labels for transducers."
+        "Resumen": "Software for serialization and print ID labels for transducers products."
     },
     {
-        "Tipo": "Sofware Development",
+        "Tipo": "Software Development",
         "Nombre": "Bafar EDI Automated Weighing System",
         "Referencia": "detail.html?id=12",
-        "Imagen":"images/12.jpg" ,
+        "Imagen":"images/p12.jpg" ,
         "Resumen": "EDI System between more than 20 Avery Weightronic scales and SAP."
     } ,
     {
-        "Tipo": "Sofware Development",
+        "Tipo": "Software Development",
         "Nombre": "Recycle Center Weighing System",
         "Referencia": "detail.html?id=13",
-        "Imagen":"images/13.jpg",
+        "Imagen":"images/p13.jpg",
         "Resumen": "Software control inventory and Buy/Sell recycle materials with data transfers to truck and floor scales." 
     },
     {
-        "Tipo": "Sofware Development",
+        "Tipo": "Software Development",
         "Nombre": "Early years Weighing Systems",
         "Referencia": "detail.html?id=14",
-        "Imagen":"images/14.jpg",
+        "Imagen":"images/p14.jpg",
         "Resumen": "Resume of weighing applications developed in 2007-2009",
     },
     {
-        "Tipo": "Sofware Development",
+        "Tipo": "Software Development",
         "Nombre": "Early years Control and Automated Systems",
         "Referencia": "detail.html?id=15",
-        "Imagen":"images/15.jpg",
+        "Imagen":"images/p15.jpg",
         "Resumen": "Resume of control, machine vision, electrical test and data monitoring applications 1998-2005",
     }
 ]
