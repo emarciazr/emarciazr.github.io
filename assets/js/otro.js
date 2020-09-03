@@ -12,7 +12,7 @@ var myArray = [
         "ProjectSize": "Small, one developer",
         "Descripcion":"In the last two years, Navico had migrated all their DB servers from SQL Server 2015 to 2019.<br>"+
         "The main requirement was to keep one server with its old DBs structures to keep their old labelling applications running.<br>"+ 
-        "My job was to disassemble and analyze current executable files by using Ollydbg and add  new DB connection strings, then reassemble and deploy the modified files<br>"
+        "My job was to disassemble and analyze current executable files by using Ollydbg and add  new DB connection strings, then reassemble and deploy the modified files.<br>"
     },
     {
         "Tipo": "Software Upgrade",
@@ -27,7 +27,7 @@ var myArray = [
         "ProjectSize": "Small, product owner and one developer",
         "Descripcion":"Weighing software migration from E1310 Avery Weightronics(AWT) to ZM510 AWT.<br>"+
         "Upgrade label templates to include new TIF regulations and SATO Automated Printers<br>"+
-        "Also create different label sizes with QRCode web page link to automated registration<br>"
+        "Also create different label sizes with QRCode web page link to automated registration.<br>"
     },
     {
         "Tipo": "Software Development",
@@ -42,7 +42,7 @@ var myArray = [
         "ProjectSize": "Small, one developer",
         "Descripcion":"The most of Navico devices have an on powering method to register device with a unique 12 characters Device ID.<br>"+
         "Low Cost models, don't have this automatic method. This software generate the Device ID encoding part number, serial and family<br>"+
-        "Also create different label sizes with QRCode web page link to automated registration<br>"
+        "Also create different label sizes with QRCode web page link to automated registration.<br>"
     },
     {
         "Tipo": "Software Development",
@@ -84,8 +84,8 @@ var myArray = [
         "ProjectSize": "Big, 10 stakeholders, one product owner, one documentary and three developers",
         "Descripcion":"Designed and developed a custom MRP System that among other things automates the "+
         "processing of production data that is used for their metrics to better plan their production."+
-        "Included modules were: production shift management, production planning, production "+
-        "results, product catalogs and reports"
+        " Included modules were: production shift management, production planning, production "+
+        "results, product catalogs and reports."
     },
     {
         "Tipo": "Software Development",
@@ -96,13 +96,13 @@ var myArray = [
         "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p05_2.jpg\" alt=\"\" /></span></div>"+
         "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p05_3.jpg\" alt=\"\" /></span></div>"+
         "</div></div>",
-        "Resumen": "Software for handheld terminal MC3190, scan an store data information from orders received",
+        "Resumen": "Software for handheld terminal MC3190, scan an store data information from orders received.",
         "Tools": "Visual studio 2013,VB .NET, SQL Server CE, Windows CE, windows 6.0",
         "Cliente": "QDL, Chihuahua",
         "Fecha":"May 2014",
         "Roles":"Analyst, hand held Developer, Tester, Deployment",
         "ProjectSize": "Small, one developer",
-        "Descripcion":""
+        "Descripcion":"Weighing Dinamyc Application for dairy industry, process work order, weight rejects and Desktop software to send/receive data from scale."
     },
     {
         "Tipo": "Software Development",
@@ -137,7 +137,7 @@ var myArray = [
         "Navico Packing communicates with:<br>"+
         "-Content Assurance Software to verify than the unit has all the elements in the pack box<br>"+
         "-QSOFT SPEA Software to validate Test electrical Results<br>"+
-        "-Weighing Device to validate unit weight<br>"
+        "-Weighing Device to validate unit weight.<br>"
     },
     {
         "Tipo": "Software Development",
@@ -222,9 +222,9 @@ var myArray = [
         "Fecha":"August, 2010",
         "Roles":" Analyst, Weighing devices Developer, Tester and Deployment",
         "ProjectSize": "Big, product owner, two developer, multiple devices",
-        "Descripcion":"Designed and developed a tailored EDI System (SICOBA) to automate the weighing of products at"+
+        "Descripcion":"Designed and developed a tailored EDI System (SICOBA) to automate the weighing of products at "+
         "Bafar’s processing plant. Included modules were: weight scale, production results, product"+
-        "catalogs and reports"
+        " catalogs and reports."
     },
     {
         "Tipo": "Software Development",
@@ -268,7 +268,7 @@ var myArray = [
         "Descripcion":"In 2005, I was invited to join like General Manager to a local Company specialized in supplying world class scale equipment and services to the Mexican market."
         +" In addition to managing staff, also has  the responsabilitie to know and explode the capabilities in the custom program devices."
         +" We offer multiple aplications with small databases to control products, process and user for Checkweighin, Labeling, Truck Scales, counting"
-        +" automated weighing"
+        +" automated weighing."
     },
     {
         "Tipo": "Software Development",
