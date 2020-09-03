@@ -32,7 +32,7 @@ var myArray = [
         "Nombre": "RPM Navico Shopfloor Control",
         "Referencia": "detail.html?id=4",
         "Imagen":"images/p04.jpg",
-        "Resumen": "Real time Monitoring production process, Packing, QA, FishMarket, Test Results , Reports."
+        "Resumen": "Real time Monitoring production process, Packing, QA, FishMarket, Test Results, Reports."
     },
     {
         "Tipo": "Software Development",
