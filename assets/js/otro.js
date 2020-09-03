@@ -58,11 +58,11 @@ var myArray = [
         "Cliente": "UABC, Ensenada",
         "Fecha":"April 2015",
         "Roles":"Desktop & Web Developer, Tester, Deployment",
-        "ProjectSize": "Medium, product ownwe, one sw developer and one hw developer",
+        "ProjectSize": "Medium, product ownwer, one sw developer and one hw developer",
         "Descripcion":"Real Time Monitoring sea water pump station, automated by Allen Bradley 1769-L33ER PLC.<br>"+
-        "The pump station send water to three sea water tanks. The water is used for aquaculture research.<br>"+
+        "This pump station sends water to other three sea water tanks, then the water is used for aquaculture research.<br>"+
         "My Job was to develop software to load and config operation parameter, receive control and data signals from PLC to store on MySQL DB and"+
-        "<a href = \"http://fcm.ens.uabc.mx/~bombas/\" target=\"_blank\"> web page</a> developed with PHP to Show system current state."
+        "<a href = \"http://fcm.ens.uabc.mx/~bombas/\" target=\"_blank\"> a web page</a> developed with PHP to Show system current state."
     },
     {
         "Tipo": "Software Development",
