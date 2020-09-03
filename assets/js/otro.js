@@ -89,7 +89,7 @@ var myArray = [
     },
     {
         "Tipo": "Software Development",
-        "Nombre": "QDL Order Receipt",
+        "Nombre": "QDL Order Shipments",
         "Referencia": "detail.html?id=5",
         "Imagen":"<div class=\"box alt\"><div class=\"row gtr-50 gtr-uniform\">"+
         "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p05_1.jpg\" alt=\"\" /></span></div>"+
@@ -102,7 +102,7 @@ var myArray = [
         "Fecha":"May 2014",
         "Roles":"Analyst, hand held Developer, Tester, Deployment",
         "ProjectSize": "Small, one developer",
-        "Descripcion":"Weighing Dinamyc Application for dairy industry, process work order, weight rejects and Desktop software to send/receive data from scale."
+        "Descripcion":"Handhel Mobile application to read all boxes barcodes from shipment pallets to record total shipment weight."
     },
     {
         "Tipo": "Software Development",
@@ -120,7 +120,7 @@ var myArray = [
         "Fecha":"June 2013",
         "Roles":"Analyst, weighing device and desktop Developer, Tester, Deployment",
         "ProjectSize": "Small, one developer",
-        "Descripcion":"Weighing Dinamyc Application for dairy industry, process work order, weight rejects and Desktop software to send/receive data from scale."
+        "Descripcion":"Weighing Dinamyc Application for dairy industry, process work orders, product rejection based on weight and Desktop software to send and receive data from scale."
     },
     {
         "Tipo": "Software Upgrade",
@@ -133,10 +133,10 @@ var myArray = [
         "Fecha":"August 2013",
         "Roles":"Developer, Tester, Deployment",
         "ProjectSize": "Small, one developer",
-        "Descripcion":"Unit validation in packing software to confirm that packed units passing from other validation process<br>"+
+        "Descripcion":"Unit validation in packing software to confirm that packed units has passed from previuos validation process.<br>"+
         "Navico Packing communicates with:<br>"+
-        "-Content Assurance Software to verify than the unit has all the elements in the pack box<br>"+
-        "-QSOFT SPEA Software to validate Test electrical Results<br>"+
+        "-Content Assurance Software to verify than the unit has all the elements in the pack box.<br>"+
+        "-QSOFT SPEA Software to validate Test electrical Results.<br>"+
         "-Weighing Device to validate unit weight.<br>"
     },
     {
@@ -154,7 +154,7 @@ var myArray = [
         "ProjectSize": "Medium, product owner and two developer, multiple devices",
         "Descripcion":"Programming 920i Rice Lake Weighing Device for high precision dynamic weighing<br>"+
         "Update SICOBA communication protocol to send/receive data fron scales using TCPIP/Sockets"+
-        "Migrate code form E1310 AWT to 920i RL"
+        "Migrate code form E1310 AWT to 920i RL."
     },
     {
         "Tipo": "Software Consulting",
@@ -188,7 +188,7 @@ var myArray = [
         "Fecha":"October 2010",
         "Roles":"Developer",
         "ProjectSize": "Small, one Developer",
-        "Descripcion":"Navico Packing is a customer application for counting and labeling all the units that will be shipping to an other Navico logistic centers.<br"+
+        "Descripcion":"Navico Packing is a customer application for counting and labeling all the units that will be shipping to another Navico logistic centers.<br"+
         "This applicationn was developed on 2007 without code optimization. My job  consits on code optimaztion and template manager to esay integrartion of new labels formats."
     },
     {
@@ -204,8 +204,8 @@ var myArray = [
         "Fecha":"March 2010",
         "Roles":"Developer",
         "ProjectSize": "Small, one Developer",
-        "Descripcion":"The first version of this software was created on 2010 to create labels for a new tracking laber for transducers part numbers."+
-        "The product design the product has been changing over the years. New versions create serial and units on main manufacturing ERP. "
+        "Descripcion":"The first version of this software was created on 2010 to create labels for a new tracking label for transducers part numbers."+
+        "The product design has been changing over the years. New versions create serial numbers and units on main manufacturing ERP. "
     },
     {
         "Tipo": "Software Development",
