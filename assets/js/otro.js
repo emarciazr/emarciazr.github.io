@@ -128,11 +128,11 @@ var myArray = [
         "Referencia": "detail.html?id=7",
         "Imagen":"<div class=\"box alt\"><div class=\"row gtr-50 gtr-uniform\">"+
         "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p07.jpg\" alt=\"\" /></span></div>"+
-        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p07_1.jpg\" alt=\"\" /></span></div>"+
-        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p07_2.jpg\" alt=\"\" /></span></div>"+
-        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p07_3.jpg\" alt=\"\" /></span></div>"+
-        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p07_4.jpg\" alt=\"\" /></span></div>"+
-        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p07_5.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p07_01.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p07_02.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p07_03.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p07_04.jpg\" alt=\"\" /></span></div>"+
+        "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p07_05.jpg\" alt=\"\" /></span></div>"+
         "</div></div>",
         "Resumen": "Quality proccess validation connecting Packing, Content Assurance and Electical Test software",
         "Tools": "Visual studio 2005,VB .NET, SQL Server",
