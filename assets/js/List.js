@@ -52,7 +52,7 @@ var myArray = [
         "Tipo": "Software Upgrade",
         "Nombre": "Navico Process Validation Integration",
         "Referencia": "detail.html?id=7",
-        "Imagen":"images/pic02.jpg" ,
+        "Imagen":"images/p07.jpg" ,
         "Resumen": "Unit validation on Packing process to look PASS results on Content Assurance SW, weight and Electical Test Stations."
     },
     {
