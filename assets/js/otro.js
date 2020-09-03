@@ -297,7 +297,7 @@ var myArray = [
         "Descripcion":"When I finished my academic preparation in 1998, i started my first job in a small software company in Tijuana,"
         +" who offered control and automation services for the manufacturing Industry. This was an exciting experience and a big opportunnity "
         +" to develop my skills on customer relationship, programming control devices and develop data and image adquisition applications.<br> "
-        +" In 2000, I joined to Astec America as Electrical Test Engineering and continued to develop industrial software solutions."
+        +" In 2000, I joined Astec America as Electrical Test Engineering and continued to develop industrial software solutions."
         
     }
 ]
