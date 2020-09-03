@@ -152,8 +152,8 @@ var myArray = [
         "Fecha":"August, 2010",
         "Roles":"Weighing Devices Developer",
         "ProjectSize": "Medium, product owner and two developer, multiple devices",
-        "Descripcion":"Programming 920i Rice Lake Weighing Device for high precision dynamic weighing<br>"+
-        "Update SICOBA communication protocol to send/receive data fron scales using TCPIP/Sockets"+
+        "Descripcion":"Programming 920i Rice Lake Weighing Device for high precision dynamic weighing.<br>"+
+        "Update SICOBA communication protocol to send and receive data from scales using TCPIP/Sockets.<br>"+
         "Migrate code form E1310 AWT to 920i RL."
     },
     {
@@ -169,7 +169,7 @@ var myArray = [
         "ProjectSize": "Medium, three developer and five PHD Researchers",
         "Descripcion":"Member of R&D team in Design Center<br>"+
         "• Research on Wi-Fi Direct Technologies applied on wireless headsets.<br>"+
-        "• Project documentation to submit government federal funds<br>"+
+        "• Project documentation to submit government federal funds.<br>"+
         "• Implementation of a Wi-Fi headset Prototype with text to voice cloud services.<br>"
     },
     {
@@ -188,7 +188,7 @@ var myArray = [
         "Fecha":"October 2010",
         "Roles":"Developer",
         "ProjectSize": "Small, one Developer",
-        "Descripcion":"Navico Packing is a customer application for counting and labeling all the units that will be shipping to another Navico logistic centers.<br"+
+        "Descripcion":"Navico Packing is a customer application for counting and labeling all the units that will be shipping to another Navico logistic centers.<br>"+
         "This applicationn was developed on 2007 without code optimization. My job  consits on code optimaztion and template manager to esay integrartion of new labels formats."
     },
     {
@@ -265,10 +265,10 @@ var myArray = [
         "Fecha":"June 2007 - February 2009",
         "Roles":"General Manager, Analyst, Weighing devices Developer, Tester and Deployment",
         "ProjectSize": "Medium and small",
-        "Descripcion":"In 2005, I was invited to join like General Manager to a local Company specialized in supplying world class scale equipment and services to the Mexican market."
-        +" In addition to managing staff, also has  the responsabilitie to know and explode the capabilities in the custom program devices."
-        +" We offer multiple aplications with small databases to control products, process and user for Checkweighin, Labeling, Truck Scales, counting"
-        +" automated weighing."
+        "Descripcion":"In 2005, I was invited to join as General Manager in a local Company specialized in supplying world class scale equipment and services to the Mexican market.<br>"
+        +" In addition to managing staff, also had the responsability to reseach and develop software to use the maximum capabilities of the custom program weihging devices.<br>"
+        +" We had offered multiple applications with small databases to products, process and users control for Checkweighing, Labeling, Truck Scales, counting"
+        +" and automated weighing."
     },
     {
         "Tipo": "Software Development",
@@ -294,10 +294,10 @@ var myArray = [
         "Fecha":"June 2007, February 2009",
         "Roles":"Analyst, Weighing devices Developer, Tester and Deployment",
         "ProjectSize": "Small",
-        "Descripcion":"When I finish my academic preparation in 1998, i join to my first small company in Tijuana,"
-        +"who offers control and automation services to manufacturing Industry. This was an exciting experience and a big oportunity "
-        +" to develop skill on customer relations and programming data acquisition, image adquisition and control devices."
-        +" In 2000, I join to Astec America like Electrical Test Engineerig and I continued to develop industrial software solutions."
+        "Descripcion":"When I finished my academic preparation in 1998, i started my first job in a small software company in Tijuana,"
+        +"who offered control and automation services for the manufacturing Industry. This was an exciting experience and a big opportunnity "
+        +" to develop my skills on customer relationship and programming data and image adquisition and control devices."
+        +" In 2000, I joined to Astec America as Electrical Test Engineering and continued to develop industrial software solutions."
         
     }
 ]
