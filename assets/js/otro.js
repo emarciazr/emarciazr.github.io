@@ -126,7 +126,7 @@ var myArray = [
         "Tipo": "Software Upgrade",
         "Nombre": "Navico Process Integration",
         "Referencia": "detail.html?id=7",
-         "Imagen":"<div class=\"box alt\"><div class=\"row gtr-50 gtr-uniform\">"+
+        "Imagen":"<div class=\"box alt\"><div class=\"row gtr-50 gtr-uniform\">"+
         "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p07.jpg\" alt=\"\" /></span></div>"+
         "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p07_1.jpg\" alt=\"\" /></span></div>"+
         "<div class=\"col-4\"><span class=\"image fit\"><img src=\"images/p07_2.jpg\" alt=\"\" /></span></div>"+
