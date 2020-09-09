@@ -102,7 +102,7 @@ var myArray = [
         "Fecha":"May 2014",
         "Roles":"Analyst, hand held Developer, Tester, Deployment",
         "ProjectSize": "Small, one developer",
-        "Descripcion":"Handhel Mobile application to read all boxes barcodes from shipment pallets to record total shipment weight."
+        "Descripcion":"Handheld Mobile application to read all boxes barcodes from shipment pallets to record total shipment weight."
     },
     {
         "Tipo": "Software Development",
